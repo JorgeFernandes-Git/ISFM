@@ -6,3 +6,5 @@ CURRENT VERSIONS
 
 - Final4.0_HK for Arduino
 - GUI_ISFM_VisualBasic for sending commands from the computer
+
+Author: Jorge Fernandes 104580
